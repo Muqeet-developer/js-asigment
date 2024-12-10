@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Jaro:opsz@6..72&display=swap');
+
+#body{
+    font-family: "Jaro", sans-serif;
+}
+p{
+    font-size: 38px;
+    font-weight: bolder;
+    font-family: "Jaro", sans-serif;
+    text-decoration: underline;
+}
+.input{
+    background-color: aqua;
+}
